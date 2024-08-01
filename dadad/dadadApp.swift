@@ -13,5 +13,6 @@ struct dadadApp: App {
         WindowGroup {
             ContentView()
         }
+        fd_set(fds_bits: <#T##(__int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t, __int32_t)#>)
     }
 }
